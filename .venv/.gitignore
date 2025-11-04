@@ -10,3 +10,6 @@ lab*.ipynb
 # virtual environments
 .venv/
 myenv/
+
+311_requests_2018-19_sample.csv
+311_requests_2018-19_sample.csv.zip
