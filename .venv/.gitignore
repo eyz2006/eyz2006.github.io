@@ -13,3 +13,12 @@ myenv/
 
 311_requests_2018-19_sample.csv
 311_requests_2018-19_sample.csv.zip
+
+# Stage the files
+git add .gitignore "Project 1.ipynb" "NYC Leading Causes of Death.csv"
+
+# Commit
+git commit -m "Add Project 1 NYC deaths notebook to portfolio"
+
+# Push to GitHub
+git push origin main
